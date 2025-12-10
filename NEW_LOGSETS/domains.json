@@ -1,0 +1,100 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "DELETE",
+    "CD_DOMINIO" : "21019",
+    "VL_DOMINIO" : "1",
+    "NM_USUARIO" : "dgviero",
+    "CD_EXP_VALOR_DOMINIO" : "1",
+    "DS_VALOR_DOMINIO" : "Test9999999",
+    "DT_ATUALIZACAO" : "10/12/2025 00:20:53",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ],
+  "DOMINIO" : [ {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "21010",
+    "NM_DOMINIO" : "Domain teste",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "dgviero",
+    "DS_DOMINIO" : "Domain teste",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "DELETE",
+      "CD_DOMINIO" : "21010",
+      "VL_DOMINIO" : "2",
+      "NM_USUARIO" : "dgviero",
+      "CD_EXP_VALOR_DOMINIO" : "2",
+      "DS_VALOR_DOMINIO" : "ANGIOLOGY",
+      "DT_ATUALIZACAO" : "09/12/2025 17:53:00",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "09/12/2025 17:48:58",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "21011",
+    "NM_DOMINIO" : "NOVO DOMINIO",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "dgviero",
+    "DS_DOMINIO" : "NOVO DOMINIO",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ ],
+    "DT_ATUALIZACAO" : "09/12/2025 18:01:34",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "2",
+    "CD_DOMINIO" : "21014",
+    "NM_DOMINIO" : "Domain Novo",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "Domain Novo",
+    "CD_EXP_DOMINIO" : "2",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "UPDATE",
+      "CD_DOMINIO" : "21014",
+      "VL_DOMINIO" : "A",
+      "NM_USUARIO" : "dgviero",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Test9999999",
+      "DT_ATUALIZACAO" : "09/12/2025 20:23:49",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "09/12/2025 20:21:27",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "21015",
+    "NM_DOMINIO" : "Novo dominio",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "dgviero",
+    "DS_DOMINIO" : "Novo dominio",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ ],
+    "DT_ATUALIZACAO" : "09/12/2025 23:53:09",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "2",
+    "CD_DOMINIO" : "21016",
+    "NM_DOMINIO" : "Domain Novo - edit",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "Domain Novo",
+    "CD_EXP_DOMINIO" : "2",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "UPDATE",
+      "CD_DOMINIO" : "21016",
+      "VL_DOMINIO" : "a",
+      "NM_USUARIO" : "dgviero",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Test9999999",
+      "DT_ATUALIZACAO" : "10/12/2025 00:00:10",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "09/12/2025 23:57:46",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
