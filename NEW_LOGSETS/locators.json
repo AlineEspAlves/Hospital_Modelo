@@ -1,0 +1,14 @@
+{
+  "LOCATOR_LOCALE" : [ {
+    "$operation" : "UPDATE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 14:40:40",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25215",
+    "NR_SEQUENCIA" : "6601",
+    "NM_USUARIO" : "dgviero",
+    "NM_USUARIO_NREC" : "dgviero",
+    "NM_ATRIBUTO" : "Locale",
+    "CD_LOCALIZADOR" : "11",
+    "DT_ATUALIZACAO" : "10/12/2025 14:40:40"
+  } ]
+}
