@@ -1,0 +1,154 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 13:05:18",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "MERGE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 13:05:18",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145040",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1145040",
+      "DS_EXPRESSAO" : "EXPRESS\u00c3O NOVA - TESTE - EDIT CMDK",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 13:05:18"
+    } ],
+    "DS_GLOSSARIO" : "EXPRESS\u00c3O NOVA - EDIT EXPRES",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145040",
+    "DT_ATUALIZACAO" : "10/12/2025 13:05:18"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 18:51:23",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 18:51:23",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145059",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1145059",
+      "DS_EXPRESSAO" : "EXPRESS\u00c3O NOVA - TESTE",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 18:51:23"
+    } ],
+    "DS_GLOSSARIO" : "EXPRESS\u00c3O NOVA - TESTE",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145059",
+    "DT_ATUALIZACAO" : "10/12/2025 18:51:23"
+  }, {
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 17:10:53",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "MERGE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 17:19:59",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145061",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "dgviero",
+      "CD_EXPRESSAO" : "1145061",
+      "DS_EXPRESSAO" : "EXPRESS\u00c3O NOVA - DEMO",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 17:10:53"
+    } ],
+    "DS_GLOSSARIO" : "EXPRESS\u00c3O NOVA - DEMO",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145061",
+    "DT_ATUALIZACAO" : "10/12/2025 17:10:53"
+  }, {
+    "$operation" : "UPDATE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 17:24:44",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "UPDATE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 17:24:44",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145069",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1145069",
+      "DS_EXPRESSAO" : "Teste de qualidade edit d",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 17:24:44"
+    } ],
+    "DS_GLOSSARIO" : "Teste de qualidade Teste de qualidade",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145069",
+    "DT_ATUALIZACAO" : "10/12/2025 17:24:44"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 18:51:23",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 18:51:23",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145077",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1145077",
+      "DS_EXPRESSAO" : "Teste de qualidade CMDK edit a",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 18:51:23"
+    } ],
+    "DS_GLOSSARIO" : "Teste de qualidade CMDK Teste de qualidade CMDK",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145077",
+    "DT_ATUALIZACAO" : "10/12/2025 18:51:23"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 18:51:23",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 18:51:23",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145079",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1145079",
+      "DS_EXPRESSAO" : "Outro teste de qualidade CRUD",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 18:51:23"
+    } ],
+    "DS_GLOSSARIO" : "Outro teste de qualidade CRUD",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145079",
+    "DT_ATUALIZACAO" : "10/12/2025 18:51:23"
+  }, {
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 18:17:13",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "MERGE",
+      "DT_ATUALIZACAO_NREC" : "10/12/2025 18:17:13",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1145084",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1145084",
+      "DS_EXPRESSAO" : "EXPRESSAO TESTE CMDK",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/12/2025 18:17:13"
+    } ],
+    "DS_GLOSSARIO" : "EXPRESSAO TESTE TESTE TESTE CMDK",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1145084",
+    "DT_ATUALIZACAO" : "10/12/2025 18:17:13"
+  } ]
+}
