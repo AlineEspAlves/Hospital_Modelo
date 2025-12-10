@@ -1,0 +1,97 @@
+[ {
+  "event_info" : {
+    "date" : "10/12/2025 18:13:18",
+    "sequence" : 2350,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "DIC_EXPRESSAO",
+    "tag_name" : "CMDK",
+    "tasy_user" : "aealves",
+    "guid" : "cb2652b4-477c-49ac-99f1-70de6e0db9a2"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "bd2d58b54d88",
+    "os_user" : "root",
+    "tasy_user" : "aealves"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "CD_EXPRESSAO",
+    "data_type" : "NUMBER",
+    "new_value" : 1145084,
+    "old_value" : 1145084
+  } ],
+  "column_values" : [ {
+    "column_name" : "CD_EXPRESSAO",
+    "data_type" : "NUMBER",
+    "new_value" : 1145084,
+    "old_value" : 1145084
+  }, {
+    "column_name" : "DT_ATUALIZACAO",
+    "data_type" : "DATE",
+    "new_value" : "10/12/2025 18:12:35",
+    "old_value" : "10/12/2025 18:10:07"
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "10/12/2025 18:12:35",
+    "old_value" : "10/12/2025 18:10:07"
+  } ]
+}, {
+  "event_info" : {
+    "date" : "10/12/2025 18:13:18",
+    "sequence" : 2351,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "DIC_EXPRESSAO_CUSTOM",
+    "tag_name" : "CMDK",
+    "tasy_user" : "aealves",
+    "guid" : "ae6852e8-d52f-48b5-88b7-f904c117006a"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "bd2d58b54d88",
+    "os_user" : "root",
+    "tasy_user" : "aealves"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 1145084,
+    "old_value" : 1145084
+  } ],
+  "column_values" : [ {
+    "column_name" : "DS_EXPRESSAO",
+    "data_type" : "VARCHAR2",
+    "new_value" : "EXPRESSAO TESTE ALINE",
+    "old_value" : "EXPRESSAO TESTE"
+  }, {
+    "column_name" : "CD_EXPRESSAO",
+    "data_type" : "NUMBER",
+    "new_value" : 1145084,
+    "old_value" : 1145084
+  }, {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 1145084,
+    "old_value" : 1145084
+  }, {
+    "column_name" : "DT_ATUALIZACAO",
+    "data_type" : "DATE",
+    "new_value" : "10/12/2025 18:12:35",
+    "old_value" : "10/12/2025 18:10:08"
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "10/12/2025 18:12:35",
+    "old_value" : "10/12/2025 18:10:08"
+  } ]
+} ]
