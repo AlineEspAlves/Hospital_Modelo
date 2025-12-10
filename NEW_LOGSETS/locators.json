@@ -1,0 +1,36 @@
+{
+  "LOCATOR_LOCALE" : [ {
+    "$operation" : "UPDATE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 14:40:40",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25215",
+    "NR_SEQUENCIA" : "6601",
+    "NM_USUARIO" : "dgviero",
+    "NM_USUARIO_NREC" : "dgviero",
+    "NM_ATRIBUTO" : "Locale",
+    "CD_LOCALIZADOR" : "11",
+    "DT_ATUALIZACAO" : "10/12/2025 14:40:40"
+  } ],
+  "TIPO_LOCALIZAR_ATRIBUTO" : [ {
+    "$operation" : "UPDATE",
+    "IE_TIPO_ATRIBUTO" : "NUMBER",
+    "DS_ITEM" : "cd teste - edit",
+    "IE_OCULTAR_RESTRICAO" : "N",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25215",
+    "IE_IGNORAR_ACENTUACAO" : "N",
+    "NM_USUARIO" : "dgviero",
+    "IE_GRID" : "N",
+    "IE_FOCUS" : "N",
+    "NM_ATRIBUTO" : "CD_TESTE",
+    "DT_ATUALIZACAO_NREC" : "10/12/2025 14:41:52",
+    "IE_TIPO_SELECAO" : "",
+    "IE_UTILIZA_TARJA_MAGNETICA" : "N",
+    "NR_SEQ_APRESENT" : "1",
+    "NR_SEQUENCIA" : "39446",
+    "IE_TIPO_RESTRICAO" : "1",
+    "NM_USUARIO_NREC" : "dgviero",
+    "IE_RESULTADO" : "N",
+    "DT_ATUALIZACAO" : "10/12/2025 14:38:27",
+    "IE_DESC_RESULT" : "N"
+  } ]
+}
