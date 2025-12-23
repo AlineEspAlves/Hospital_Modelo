@@ -1,0 +1,12 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "DELETE",
+    "CD_DOMINIO" : "21047",
+    "VL_DOMINIO" : "5",
+    "NM_USUARIO" : "dgviero",
+    "CD_EXP_VALOR_DOMINIO" : "293950",
+    "DS_VALOR_DOMINIO" : "N\u00e3o se aplica",
+    "DT_ATUALIZACAO" : "23/12/2025 11:24:50",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
