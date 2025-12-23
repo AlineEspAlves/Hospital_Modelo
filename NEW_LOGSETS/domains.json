@@ -1,0 +1,70 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_DOMINIO" : "8940",
+    "VL_DOMINIO" : "A",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "316798",
+    "DS_VALOR_DOMINIO" : "Exame ocular externo",
+    "DT_ATUALIZACAO" : "22/12/2025 18:46:02",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ],
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "283058",
+    "CD_DOMINIO" : "21047",
+    "NM_DOMINIO" : "Abertura Ocular",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "Dom\u00ednio criado para atender as op\u00e7\u00f5es sobre a avalia\u00e7\u00e3o da abertura ocular da escala Glasglow.",
+    "CD_EXP_DOMINIO" : "283058",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21047",
+      "VL_DOMINIO" : "4",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "932889",
+      "DS_VALOR_DOMINIO" : "Espont\u00e1neo",
+      "DT_ATUALIZACAO" : "22/12/2025 18:32:39",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21047",
+      "VL_DOMINIO" : "3",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "724732",
+      "DS_VALOR_DOMINIO" : "Resposta ao chamado verbal",
+      "DT_ATUALIZACAO" : "22/12/2025 18:33:25",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21047",
+      "VL_DOMINIO" : "2",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "493266",
+      "DS_VALOR_DOMINIO" : "Resposta \u00e0 dor",
+      "DT_ATUALIZACAO" : "22/12/2025 18:34:11",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21047",
+      "VL_DOMINIO" : "1",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "284285",
+      "DS_VALOR_DOMINIO" : "1 - Ausente",
+      "DT_ATUALIZACAO" : "22/12/2025 18:34:36",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21047",
+      "VL_DOMINIO" : "5",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "293950",
+      "DS_VALOR_DOMINIO" : "N\u00e3o se aplica",
+      "DT_ATUALIZACAO" : "23/12/2025 11:20:49",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "22/12/2025 18:32:10",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
