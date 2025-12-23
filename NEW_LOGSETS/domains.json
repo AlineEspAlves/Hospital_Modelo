@@ -1,0 +1,65 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "DELETE",
+    "CD_DOMINIO" : "56",
+    "VL_DOMINIO" : "1",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "311589",
+    "DS_VALOR_DOMINIO" : "Customer",
+    "DT_ATUALIZACAO" : "23/12/2025 14:53:28",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ],
+  "VALOR_DOMINIO_CUSTOM" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "23/12/2025 12:56:08",
+    "VL_DOMAIN" : "B",
+    "DS_DOMAIN_CLIENT_VALUE" : "",
+    "NR_SEQUENCIA" : "4462",
+    "NM_USUARIO" : "aealves",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_DOMAIN" : "8940",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "CD_EXP_DOMAIN_VALUE" : "293950"
+  } ],
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "283058",
+    "CD_DOMINIO" : "21049",
+    "NM_DOMINIO" : "Teste-Abertura Ocular",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "Teste-Abertura Ocular",
+    "CD_EXP_DOMINIO" : "283058",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21049",
+      "VL_DOMINIO" : "2",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "493266",
+      "DS_VALOR_DOMINIO" : "Response to pain",
+      "DT_ATUALIZACAO" : "23/12/2025 12:04:18",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21049",
+      "VL_DOMINIO" : "3",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "724732",
+      "DS_VALOR_DOMINIO" : "Response to oral calling",
+      "DT_ATUALIZACAO" : "23/12/2025 12:36:53",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "DELETE",
+      "CD_DOMINIO" : "21049",
+      "VL_DOMINIO" : "4",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "293950",
+      "DS_VALOR_DOMINIO" : "N\u00e3o se aplica",
+      "DT_ATUALIZACAO" : "23/12/2025 12:46:28",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "23/12/2025 12:03:45",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
