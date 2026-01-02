@@ -1,0 +1,70 @@
+{
+  "identifier" : "CMDKLTD",
+  "migrations" : [ {
+    "op" : "replace",
+    "path" : "/attributes/code:682422193/label",
+    "value" : "Teste9999999"
+  }, {
+    "op" : "replace",
+    "path" : "/attributes/code:682422193/labelExpressionCode",
+    "value" : 1
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422192/nmAtributoCd",
+    "value" : "CD_PROCEDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422192/nmAtributoDs",
+    "value" : "DS_PROCEDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422192/nmTabelaRef",
+    "value" : "PROCEDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422191/nmAtributoCd",
+    "value" : "CD_PROCEDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422191/nmAtributoDs",
+    "value" : "DS_PROCEDIMENTO"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422191/nmTabelaRef",
+    "value" : "PROCEDIMENTO"
+  }, {
+    "op" : "replace",
+    "path" : "/attributes/code:682422198/label",
+    "value" : "Teste9999999"
+  }, {
+    "op" : "replace",
+    "path" : "/attributes/code:682422198/labelExpressionCode",
+    "value" : 1
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422213/nmAtributoCd",
+    "value" : "NR_SEQUENCIA"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422213/nmAtributoDs",
+    "value" : "DS_PROC_EXAME"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:682422213/nmTabelaRef",
+    "value" : "PROC_INTERNO"
+  }, {
+    "op" : "replace",
+    "path" : "/attributes/code:761228568/tipoAtributo",
+    "value" : "FUNCTION"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:761228568/componente",
+    "value" : "TEXTBOX"
+  }, {
+    "op" : "add",
+    "path" : "/attributes/code:761228568/dbPanelComponentType",
+    "value" : "DE"
+  } ],
+  "type" : "PARTNER",
+  "version" : "1.8.11"
+}
