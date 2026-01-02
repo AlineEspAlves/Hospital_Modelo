@@ -1,0 +1,30 @@
+{
+  "TIPO_LOCALIZAR_ATRIBUTO" : [ {
+    "$operation" : "UPDATE",
+    "IE_TIPO_ATRIBUTO" : "NUMBER",
+    "IE_OCULTAR_RESTRICAO" : "N",
+    "IE_IGNORAR_ACENTUACAO" : "N",
+    "IE_GRID" : "S",
+    "IE_FOCUS" : "N",
+    "NM_ATRIBUTO" : "CD_MATERIAL",
+    "CD_EXP_ITEM" : "313121",
+    "QT_ALTURA" : "21",
+    "QT_TAM_COLUNA_GRID" : "149",
+    "IE_UTILIZA_TARJA_MAGNETICA" : "N",
+    "QT_DESLOCAMENTO" : "0",
+    "IE_TIPO_RESTRICAO" : "1",
+    "IE_RESULTADO" : "S",
+    "DT_ATUALIZACAO" : "02/01/2026 17:40:36",
+    "IE_DESC_RESULT" : "N",
+    "NR_SEQ_GRID" : "1",
+    "DS_ITEM" : "C\u00f3digo",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25610",
+    "NM_USUARIO" : "dgviero",
+    "DT_ATUALIZACAO_NREC" : "02/01/2026 18:16:08",
+    "IE_TIPO_SELECAO" : "",
+    "QT_TAM_GRID" : "60",
+    "NR_SEQ_APRESENT" : "1",
+    "NR_SEQUENCIA" : "39679",
+    "NM_USUARIO_NREC" : "dgviero"
+  } ]
+}
