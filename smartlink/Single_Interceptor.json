@@ -1,0 +1,108 @@
+[
+    {
+        "id": "3876ea20b16e797c",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": [],
+        "new": true,
+        "extensionId": "5580931a-510f-409e-97cd-bb92bd75a32c"
+    },
+    {
+        "id": "4908575be43c7cc4",
+        "type": "group",
+        "z": "3876ea20b16e797c",
+        "name": "Single Interceptor",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "48220cdb98b420b3",
+            "6ed2ad027ca45680",
+            "19b186cb30e3fa7a",
+            "7845158aa0722dd3"
+        ],
+        "x": 114,
+        "y": 79,
+        "w": 612,
+        "h": 162
+    },
+    {
+        "id": "48220cdb98b420b3",
+        "type": "DBPanel Interceptor",
+        "z": "3876ea20b16e797c",
+        "g": "4908575be43c7cc4",
+        "tableName": "TIPO_ACOMODACAO",
+        "name": "TIPO_ACOMODACAO",
+        "url": "",
+        "view": "30035",
+        "executionOrder": "2",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 240,
+        "y": 120,
+        "wires": [
+            [
+                "6ed2ad027ca45680",
+                "19b186cb30e3fa7a"
+            ]
+        ]
+    },
+    {
+        "id": "6ed2ad027ca45680",
+        "type": "debug",
+        "z": "3876ea20b16e797c",
+        "g": "4908575be43c7cc4",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "19b186cb30e3fa7a",
+        "type": "function",
+        "z": "3876ea20b16e797c",
+        "g": "4908575be43c7cc4",
+        "name": "function 3",
+        "func": "msg.payload.abort = \"Single\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 120,
+        "wires": [
+            [
+                "7845158aa0722dd3"
+            ]
+        ]
+    },
+    {
+        "id": "7845158aa0722dd3",
+        "type": "debug",
+        "z": "3876ea20b16e797c",
+        "g": "4908575be43c7cc4",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 200,
+        "wires": []
+    }
+]
