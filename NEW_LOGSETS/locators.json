@@ -1,0 +1,40 @@
+{
+  "TIPO_LOCALIZAR_ATRIBUTO" : [ {
+    "$operation" : "CREATE",
+    "IE_TIPO_ATRIBUTO" : "DATE",
+    "DS_ITEM" : "date",
+    "IE_OCULTAR_RESTRICAO" : "N",
+    "NR_SEQ_TIPO_LOCALIZAR" : "25705",
+    "IE_IGNORAR_ACENTUACAO" : "N",
+    "NM_USUARIO" : "aealves",
+    "IE_GRID" : "N",
+    "IE_FOCUS" : "N",
+    "NM_ATRIBUTO" : "DT",
+    "DT_ATUALIZACAO_NREC" : "05/01/2026 17:48:26",
+    "IE_TIPO_SELECAO" : "",
+    "IE_UTILIZA_TARJA_MAGNETICA" : "N",
+    "NR_SEQ_APRESENT" : "1",
+    "NR_SEQUENCIA" : "39742",
+    "IE_TIPO_RESTRICAO" : "1",
+    "NM_USUARIO_NREC" : "aealves",
+    "IE_RESULTADO" : "N",
+    "DT_ATUALIZACAO" : "05/01/2026 17:48:26",
+    "IE_DESC_RESULT" : "N"
+  } ],
+  "TIPO_LOCALIZAR" : [ {
+    "$operation" : "CREATE",
+    "DS_LOCALIZADOR" : "teste",
+    "IE_APRESENTACAO" : "N",
+    "TIPO_LOCALIZADOR_CLIENTE" : [ ],
+    "NM_USUARIO" : "aealves",
+    "IE_LOCALIZADOR_INTERNO" : "",
+    "DT_ATUALIZACAO_NREC" : "05/01/2026 17:48:12",
+    "IE_RESTRINGE_ESTAB" : "N",
+    "NR_SEQUENCIA" : "25705",
+    "TIPO_LOCALIZAR_ATRIBUTO" : [ ],
+    "DS_SQL" : "select 1 from dual",
+    "NM_USUARIO_NREC" : "aealves",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "05/01/2026 17:48:12"
+  } ]
+}
