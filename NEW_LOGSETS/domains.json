@@ -1,0 +1,24 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "21342",
+    "NM_DOMINIO" : "TESTE",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "TESTE",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "21342",
+      "VL_DOMINIO" : "A",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Test9999999",
+      "DT_ATUALIZACAO" : "07/01/2026 14:42:10",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "06/01/2026 18:18:30",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
