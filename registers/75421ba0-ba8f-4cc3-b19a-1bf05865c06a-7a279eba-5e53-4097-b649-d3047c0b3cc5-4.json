@@ -1,0 +1,39 @@
+[ {
+  "event_info" : {
+    "date" : "15/01/2026 10:34:30",
+    "sequence" : 500004,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "TIPO_LOCALIZAR",
+    "tag_name" : "CMDK",
+    "tasy_user" : "aealves",
+    "guid" : "b9df6a66-9ac4-448b-82df-5addf9870d29"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "ec2263a10709",
+    "os_user" : "root",
+    "tasy_user" : "aealves"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 26171,
+    "old_value" : 26171
+  } ],
+  "column_values" : [ {
+    "column_name" : "DS_LOCALIZADOR",
+    "data_type" : "VARCHAR2",
+    "new_value" : "Materiais copy",
+    "old_value" : "Materiais"
+  }, {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 26171,
+    "old_value" : 26171
+  } ]
+} ]
