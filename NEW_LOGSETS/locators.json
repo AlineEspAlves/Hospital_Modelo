@@ -1,0 +1,33 @@
+{
+  "TIPO_LOCALIZAR_ATRIBUTO" : [ {
+    "$operation" : "UPDATE",
+    "IE_TIPO_ATRIBUTO" : "VARCHAR2",
+    "IE_OCULTAR_RESTRICAO" : "N",
+    "IE_IGNORAR_ACENTUACAO" : "N",
+    "IE_GRID" : "N",
+    "IE_FOCUS" : "N",
+    "NM_ATRIBUTO" : "DS_TESTE",
+    "QT_ALTURA" : "1",
+    "QT_MINIMA_CARACTER" : "1",
+    "QT_TAM_COLUNA_GRID" : "1",
+    "IE_UTILIZA_TARJA_MAGNETICA" : "N",
+    "QT_DESLOCAMENTO" : "1",
+    "IE_TIPO_RESTRICAO" : "1",
+    "IE_RESULTADO" : "N",
+    "DT_ATUALIZACAO" : "15/01/2026 10:43:47",
+    "IE_DESC_RESULT" : "N",
+    "NR_SEQ_GRID" : "1",
+    "NM_ATRIBUTO_PESQUISA" : "1",
+    "DS_ITEM" : "teste editado d",
+    "NR_SEQ_TIPO_LOCALIZAR" : "26172",
+    "NM_USUARIO" : "dgviero",
+    "QT_TAM_ATRIB_DESC" : "1",
+    "DT_ATUALIZACAO_NREC" : "15/01/2026 10:45:14",
+    "NR_COLUNAS" : "1",
+    "IE_TIPO_SELECAO" : "",
+    "QT_TAM_GRID" : "1",
+    "NR_SEQ_APRESENT" : "1",
+    "NR_SEQUENCIA" : "39894",
+    "NM_USUARIO_NREC" : "dgviero"
+  } ]
+}
