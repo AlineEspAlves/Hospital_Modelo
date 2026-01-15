@@ -1,0 +1,112 @@
+[ {
+  "event_info" : {
+    "date" : "15/01/2026 13:35:57",
+    "sequence" : 500035,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "TIPO_LOCALIZAR_ATRIBUTO",
+    "tag_name" : "CMDK",
+    "tasy_user" : "aealves",
+    "guid" : "fa71058e-a0d8-4c2f-8d42-fb00e870cd8d"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "ec2263a10709",
+    "os_user" : "root",
+    "tasy_user" : "aealves"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 39915,
+    "old_value" : 39915
+  } ],
+  "column_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 39915,
+    "old_value" : 39915
+  }, {
+    "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+    "data_type" : "NUMBER",
+    "new_value" : 26196,
+    "old_value" : 26196
+  }, {
+    "column_name" : "IE_TIPO_SELECAO",
+    "data_type" : "VARCHAR2",
+    "new_value" : "",
+    "old_value" : null
+  }, {
+    "column_name" : "CD_DOMINIO",
+    "data_type" : "NUMBER",
+    "new_value" : null,
+    "old_value" : null
+  }, {
+    "column_name" : "DS_ITEM",
+    "data_type" : "VARCHAR2",
+    "new_value" : "teste ed",
+    "old_value" : "teste"
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "15/01/2026 13:35:26",
+    "old_value" : "15/01/2026 13:34:00"
+  } ]
+}, {
+  "event_info" : {
+    "date" : "15/01/2026 13:35:57",
+    "sequence" : 500036,
+    "date_format" : "dd/mm/rrrr hh24:mi:ss",
+    "dml_operation" : "UPDATE",
+    "table_name" : "TIPO_LOCALIZAR_ATRIBUTO",
+    "tag_name" : "CMDK",
+    "tasy_user" : "aealves",
+    "guid" : "a9e01f42-602e-476d-9920-4a64b58da535"
+  },
+  "server_info" : {
+    "charset" : "AMERICAN_AMERICA.AL32UTF8",
+    "database_version" : "19.0",
+    "instance_name" : "phcdb4"
+  },
+  "session_info" : {
+    "machine" : "ec2263a10709",
+    "os_user" : "root",
+    "tasy_user" : "aealves"
+  },
+  "primary_key_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 39913,
+    "old_value" : 39913
+  } ],
+  "column_values" : [ {
+    "column_name" : "NR_SEQUENCIA",
+    "data_type" : "NUMBER",
+    "new_value" : 39913,
+    "old_value" : 39913
+  }, {
+    "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+    "data_type" : "NUMBER",
+    "new_value" : 26196,
+    "old_value" : 26196
+  }, {
+    "column_name" : "CD_DOMINIO",
+    "data_type" : "NUMBER",
+    "new_value" : null,
+    "old_value" : null
+  }, {
+    "column_name" : "DS_ITEM",
+    "data_type" : "VARCHAR2",
+    "new_value" : "teste ed1",
+    "old_value" : "teste"
+  }, {
+    "column_name" : "DT_ATUALIZACAO_NREC",
+    "data_type" : "DATE",
+    "new_value" : "15/01/2026 13:35:34",
+    "old_value" : "15/01/2026 13:33:11"
+  } ]
+} ]
