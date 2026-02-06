@@ -1,0 +1,90 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "22202",
+    "NM_DOMINIO" : "Domain teste",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "Domain teste",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22202",
+      "VL_DOMINIO" : "1",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Proba999",
+      "DT_ATUALIZACAO" : "06/02/2026 08:22:59",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22202",
+      "VL_DOMINIO" : "2",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "2",
+      "DS_VALOR_DOMINIO" : "ANGIOLOG\u00cdA",
+      "DT_ATUALIZACAO" : "06/02/2026 08:23:09",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22202",
+      "VL_DOMINIO" : "3",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "3",
+      "DS_VALOR_DOMINIO" : "CIRUG\u00cdA GINECOL\u00d3GICA",
+      "DT_ATUALIZACAO" : "06/02/2026 08:25:47",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "06/02/2026 08:21:55",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "MERGE",
+    "CD_EXP_DESC_DOMINIO" : "2",
+    "CD_DOMINIO" : "22203",
+    "NM_DOMINIO" : "Domain teste 1",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "Domain teste 1 - editando",
+    "CD_EXP_DOMINIO" : "2",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22203",
+      "VL_DOMINIO" : "A",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Proba999",
+      "DT_ATUALIZACAO" : "06/02/2026 08:23:48",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22203",
+      "VL_DOMINIO" : "B",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "2",
+      "DS_VALOR_DOMINIO" : "ANGIOLOG\u00cdA",
+      "DT_ATUALIZACAO" : "06/02/2026 08:24:39",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22203",
+      "VL_DOMINIO" : "C",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "3",
+      "DS_VALOR_DOMINIO" : "CIRUG\u00cdA GINECOL\u00d3GICA",
+      "DT_ATUALIZACAO" : "06/02/2026 08:27:14",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22203",
+      "VL_DOMINIO" : "D",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "4",
+      "DS_VALOR_DOMINIO" : "NEUROLOG\u00cdA/NEUROCIRUG\u00cdA",
+      "DT_ATUALIZACAO" : "06/02/2026 08:27:30",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "06/02/2026 08:22:41",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
