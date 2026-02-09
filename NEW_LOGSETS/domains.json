@@ -1,0 +1,12 @@
+{
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "UPDATE",
+    "CD_DOMINIO" : "22285",
+    "VL_DOMINIO" : "3",
+    "NM_USUARIO" : "dgviero",
+    "CD_EXP_VALOR_DOMINIO" : "3",
+    "DS_VALOR_DOMINIO" : "CIRUG\u00cdA GINECOL\u00d3GICA",
+    "DT_ATUALIZACAO" : "09/02/2026 10:00:59",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
