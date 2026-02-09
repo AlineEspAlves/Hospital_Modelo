@@ -1,0 +1,63 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "22204",
+    "NM_DOMINIO" : "TST DOMAIN",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "TST DOMAIN",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "CREATE",
+      "CD_DOMINIO" : "22204",
+      "VL_DOMINIO" : "4",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "4",
+      "DS_VALOR_DOMINIO" : "NEUROLOG\u00cdA/NEUROCIRUG\u00cdA",
+      "DT_ATUALIZACAO" : "06/02/2026 09:51:57",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "06/02/2026 09:44:17",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "MERGE",
+    "CD_EXP_DESC_DOMINIO" : "2",
+    "CD_DOMINIO" : "22285",
+    "NM_DOMINIO" : "TESTE RESPIRAR",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "TESTE RESPIRAR",
+    "CD_EXP_DOMINIO" : "2",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "MERGE",
+      "CD_DOMINIO" : "22285",
+      "VL_DOMINIO" : "1",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Proba999",
+      "DT_ATUALIZACAO" : "09/02/2026 09:46:48",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "MERGE",
+      "CD_DOMINIO" : "22285",
+      "VL_DOMINIO" : "2",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "2",
+      "DS_VALOR_DOMINIO" : "ANGIOLOG\u00cdA",
+      "DT_ATUALIZACAO" : "09/02/2026 09:46:54",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "MERGE",
+      "CD_DOMINIO" : "22285",
+      "VL_DOMINIO" : "3",
+      "NM_USUARIO" : "aealves",
+      "CD_EXP_VALOR_DOMINIO" : "3",
+      "DS_VALOR_DOMINIO" : "CIRUG\u00cdA GINECOL\u00d3GICA",
+      "DT_ATUALIZACAO" : "09/02/2026 09:50:41",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "09/02/2026 09:49:26",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
