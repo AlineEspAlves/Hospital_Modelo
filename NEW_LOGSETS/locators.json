@@ -1,0 +1,17 @@
+{
+  "TIPO_LOCALIZAR" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "10/02/2026 10:01:23",
+    "DS_LOCALIZADOR" : "Materiais3",
+    "IE_RESTRINGE_ESTAB" : "N",
+    "IE_APRESENTACAO" : "N",
+    "TIPO_LOCALIZADOR_CLIENTE" : [ ],
+    "NM_USUARIO" : "aealves",
+    "NR_SEQUENCIA" : "27196",
+    "TIPO_LOCALIZAR_ATRIBUTO" : [ ],
+    "DS_SQL" : "select *\r\nfrom material\r\nwhere ie_tipo_material <> 8\r\norder by ds_material",
+    "NM_USUARIO_NREC" : "aealves",
+    "IE_LOCALIZADOR_INTERNO" : "",
+    "DT_ATUALIZACAO" : "10/02/2026 10:01:23"
+  } ]
+}
