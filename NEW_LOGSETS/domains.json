@@ -1,0 +1,57 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "2",
+    "CD_DOMINIO" : "22285",
+    "NM_DOMINIO" : "TESTE RESPIRAR",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "dgviero",
+    "DS_DOMINIO" : "TESTE RESPIRAR",
+    "CD_EXP_DOMINIO" : "2",
+    "VALOR_DOMINIO" : [ {
+      "$operation" : "DELETE",
+      "CD_DOMINIO" : "22285",
+      "VL_DOMINIO" : "3",
+      "NM_USUARIO" : "dgviero",
+      "CD_EXP_VALOR_DOMINIO" : "3",
+      "DS_VALOR_DOMINIO" : "CIRUG\u00cdA GINECOL\u00d3GICA",
+      "DT_ATUALIZACAO" : "09/02/2026 10:02:48",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    }, {
+      "$operation" : "DELETE",
+      "CD_DOMINIO" : "22285",
+      "VL_DOMINIO" : "1",
+      "NM_USUARIO" : "dgviero",
+      "CD_EXP_VALOR_DOMINIO" : "1",
+      "DS_VALOR_DOMINIO" : "Proba999",
+      "DT_ATUALIZACAO" : "09/02/2026 10:02:51",
+      "DS_LAYER" : "CORE.CMDK_LTDA"
+    } ],
+    "DT_ATUALIZACAO" : "09/02/2026 10:03:43",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "22287",
+    "NM_DOMINIO" : "NOVO TESTEE",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "dgviero",
+    "DS_DOMINIO" : "NOVO TESTEE",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ ],
+    "DT_ATUALIZACAO" : "09/02/2026 10:11:58",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "22288",
+    "NM_DOMINIO" : "TESTE NOVO DOMAIN",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "dgviero",
+    "DS_DOMINIO" : "TESTE NOVO DOMAIN",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ ],
+    "DT_ATUALIZACAO" : "09/02/2026 10:20:42",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
