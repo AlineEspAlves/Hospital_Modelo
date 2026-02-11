@@ -1,0 +1,25 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "UPDATE",
+    "DT_ATUALIZACAO_NREC" : "11/02/2026 20:47:32",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "UPDATE",
+      "DT_ATUALIZACAO_NREC" : "11/02/2026 20:47:32",
+      "DS_LOCALE" : "es_CO",
+      "DS_IDIOMA" : "es",
+      "NR_SEQUENCIA" : "1148878",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1148878",
+      "DS_EXPRESSAO" : "nova expressao para testar",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "11/02/2026 20:47:32"
+    } ],
+    "DS_GLOSSARIO" : "nova expressao edit dg",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1148878",
+    "DT_ATUALIZACAO" : "11/02/2026 20:47:31"
+  } ]
+}
