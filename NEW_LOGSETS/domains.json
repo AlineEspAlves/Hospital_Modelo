@@ -1,0 +1,15 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "CREATE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "25170",
+    "NM_DOMINIO" : "Teste 1 Aline",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "alineea",
+    "DS_DOMINIO" : "Teste 1 Aline",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ ],
+    "DT_ATUALIZACAO" : "25/05/2026 14:52:08",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
