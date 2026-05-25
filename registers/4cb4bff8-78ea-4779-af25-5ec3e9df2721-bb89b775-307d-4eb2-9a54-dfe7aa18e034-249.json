@@ -1,0 +1,51 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "25/05/2026 16:31:28",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500249,
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "aealves",
+      "guid" : "a252e6b4-63e3-4f4e-9e72-ecc482e8ec67"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "4b5ca0cd58d4",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 25173,
+      "old_value" : 25173
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 25173,
+      "old_value" : 25173
+    }, {
+      "column_name" : "NM_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Cenario1 Editado",
+      "old_value" : "Cenario1"
+    }, {
+      "column_name" : "DS_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cen\u00e1rio1 editado",
+      "old_value" : "cen\u00e1rio1"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "25/05/2026 16:31:00",
+      "old_value" : "25/05/2026 16:28:25"
+    } ]
+  } ]
+}
