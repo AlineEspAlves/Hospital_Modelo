@@ -1,0 +1,25 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "13/05/2026 17:26:29",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "13/05/2026 17:26:29",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1153372",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1153372",
+      "DS_EXPRESSAO" : "USU\u00c1RIO VALIDA\u00c7\u00c3O US",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "13/05/2026 17:26:29"
+    } ],
+    "DS_GLOSSARIO" : "USU\u00c1RIO VALIDA\u00c7\u00c3O US ",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1153372",
+    "DT_ATUALIZACAO" : "13/05/2026 17:26:29"
+  } ]
+}
