@@ -1,0 +1,29 @@
+{
+  "DIC_EXPRESSAO_CUSTOM" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "23/06/2026 13:36:17",
+    "DS_LOCALE" : "ar_SA",
+    "DS_IDIOMA" : "ar",
+    "NR_SEQUENCIA" : "30087",
+    "NM_USUARIO" : "aealves",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1125030",
+    "DS_EXPRESSAO" : "maine arab",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "23/06/2026 13:36:17"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "23/06/2026 14:13:51",
+    "DS_LOCALE" : "pl_PL",
+    "DS_IDIOMA" : "pl",
+    "NR_SEQUENCIA" : "30088",
+    "NM_USUARIO" : "aealves",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1125030",
+    "DS_EXPRESSAO" : "maine poland",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "23/06/2026 14:13:51"
+  } ]
+}
