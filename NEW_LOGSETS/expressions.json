@@ -1,0 +1,91 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "13/05/2026 17:26:29",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "13/05/2026 17:26:29",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1153372",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1153372",
+      "DS_EXPRESSAO" : "USU\u00c1RIO VALIDA\u00c7\u00c3O US",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "13/05/2026 17:26:29"
+    } ],
+    "DS_GLOSSARIO" : "USU\u00c1RIO VALIDA\u00c7\u00c3O US ",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1153372",
+    "DT_ATUALIZACAO" : "13/05/2026 17:26:29"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "10/06/2026 07:44:55",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "10/06/2026 07:44:56",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1154392",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1154392",
+      "DS_EXPRESSAO" : "10/06/2026",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/06/2026 07:44:56"
+    } ],
+    "DS_GLOSSARIO" : "teste teste teste teste teste ",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1154392",
+    "DT_ATUALIZACAO" : "10/06/2026 07:44:55"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "10/06/2026 07:47:45",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "10/06/2026 07:47:45",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1154393",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1154393",
+      "DS_EXPRESSAO" : "teste 10/06/2026 1",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/06/2026 07:47:45"
+    } ],
+    "DS_GLOSSARIO" : "teste teste teste teste",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1154393",
+    "DT_ATUALIZACAO" : "10/06/2026 07:47:45"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "10/06/2026 07:49:00",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "10/06/2026 07:49:00",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1154394",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1154394",
+      "DS_EXPRESSAO" : "teste 10/06/2026 2",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/06/2026 07:49:00"
+    } ],
+    "DS_GLOSSARIO" : "teste teste teste teste ",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1154394",
+    "DT_ATUALIZACAO" : "10/06/2026 07:49:00"
+  } ]
+}
