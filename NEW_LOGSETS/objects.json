@@ -1,0 +1,25 @@
+{
+  "OBJETO_SISTEMA" : [ {
+    "$operation" : "CREATE",
+    "DS_SCRIPT_CRIACAO" : "create or replace PROCEDURE CMDKLTDA_PROC_T AS\nBEGIN\n    DBMS_OUTPUT.PUT_LINE('Hello from CMDKLTD_PROC_TEST');\n\nEND CMDKLTDA_PROC_T;\n/",
+    "NR_SEQUENCIA" : "10176570",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PROCEDURE",
+    "DT_ATUALIZACAO" : "11/05/2026 16:39:42",
+    "NM_OBJETO" : "CMDKLTDA_PROC_T",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "MERGE",
+    "DS_SCRIPT_CRIACAO" : "create or replace PROCEDURE CMDKLTDA_PROC_A AS\nBEGIN\n    DBMS_OUTPUT.PUT_LINE('Hello from CMDKLTD_PROC_TEST')\n\nEND CMDKLTDA_PROC_A;\n/",
+    "NR_SEQUENCIA" : "10176578",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PROCEDURE",
+    "DT_ATUALIZACAO" : "13/05/2026 17:34:31",
+    "NM_OBJETO" : "CMDKLTDA_PROC_A",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
