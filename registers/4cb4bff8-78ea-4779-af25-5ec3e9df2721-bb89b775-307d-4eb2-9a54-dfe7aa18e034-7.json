@@ -1,0 +1,84 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "06/07/2026 09:32:19",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 350,
+      "table_name" : "DIC_EXPRESSAO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "aealves",
+      "guid" : "14115009-cfe3-4d0c-8b63-93aacaafedff"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "f4235e1654cb",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1156190,
+      "old_value" : 1156190
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1156190,
+      "old_value" : 1156190
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "06/07/2026 09:32:19",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 351,
+      "table_name" : "DIC_EXPRESSAO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "aealves",
+      "guid" : "3eecd5c9-19a2-4e0b-84b7-2573e48d26b2"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "f4235e1654cb",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 1156190,
+      "old_value" : 1156190
+    } ],
+    "column_values" : [ {
+      "column_name" : "DS_EXPRESSAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Expressao traducao edit",
+      "old_value" : "Expressao traducao 06/07/2026"
+    }, {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : "1156190",
+      "old_value" : "1156190"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 1156190,
+      "old_value" : 1156190
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "06/07/2026 09:24:56",
+      "old_value" : "06/07/2026 09:22:11"
+    } ]
+  } ]
+}
