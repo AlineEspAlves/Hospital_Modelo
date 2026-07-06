@@ -1,0 +1,89 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "06/07/2026 09:16:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 100,
+      "table_name" : "DIC_EXPRESSAO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "alineea",
+      "guid" : "29c2956f-68a8-4352-9110-b4b84850cbe5"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "f4235e1654cb",
+      "os_user" : "root",
+      "tasy_user" : "alineea"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1156189,
+      "old_value" : 1156189
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1156189,
+      "old_value" : 1156189
+    }, {
+      "column_name" : "DS_GLOSSARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "teste teste glossary edit",
+      "old_value" : "teste teste teste teste"
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "06/07/2026 09:15:53",
+      "old_value" : "06/07/2026 09:14:12"
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "alineea",
+      "old_value" : "aealves"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "06/07/2026 09:16:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 101,
+      "table_name" : "DIC_EXPRESSAO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "alineea",
+      "guid" : "8dd45936-fd0c-47c9-a0e1-679d862a6a1b"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "f4235e1654cb",
+      "os_user" : "root",
+      "tasy_user" : "alineea"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 1156189,
+      "old_value" : 1156189
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : "1156189",
+      "old_value" : "1156189"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 1156189,
+      "old_value" : 1156189
+    } ]
+  } ]
+}
