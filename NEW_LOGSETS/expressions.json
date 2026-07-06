@@ -1,0 +1,113 @@
+{
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "06/07/2026 09:15:53",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "06/07/2026 09:14:12",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1156189",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1156189",
+      "DS_EXPRESSAO" : "expressao nova 06/07/2026",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "06/07/2026 09:14:12"
+    } ],
+    "DS_GLOSSARIO" : "teste teste glossary edit",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "alineea",
+    "CD_EXPRESSAO" : "1156189",
+    "DT_ATUALIZACAO" : "06/07/2026 09:14:12"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "06/07/2026 09:22:11",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "06/07/2026 09:24:56",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1156190",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1156190",
+      "DS_EXPRESSAO" : "Expressao traducao edit",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "06/07/2026 09:22:11"
+    }, {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "06/07/2026 09:24:05",
+      "DS_LOCALE" : "en_US",
+      "DS_IDIOMA" : "en",
+      "NR_SEQUENCIA" : "30562",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "alineea",
+      "CD_EXPRESSAO" : "1156190",
+      "DS_EXPRESSAO" : "Traducao custom edit",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "06/07/2026 09:22:31"
+    } ],
+    "DS_GLOSSARIO" : "teste teste teste teste",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1156190",
+    "DT_ATUALIZACAO" : "06/07/2026 09:22:11"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "10/06/2026 07:44:55",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "10/06/2026 07:44:56",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1154392",
+      "NM_USUARIO" : "aealves",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1154392",
+      "DS_EXPRESSAO" : "10/06/2026",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "10/06/2026 07:44:56"
+    } ],
+    "DS_GLOSSARIO" : "teste teste teste teste teste ",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1154392",
+    "DT_ATUALIZACAO" : "10/06/2026 07:44:55"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "06/07/2026 09:44:32",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "06/07/2026 09:44:32",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1156192",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1156192",
+      "DS_EXPRESSAO" : "teste nova express\u00e3o",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "06/07/2026 09:44:32"
+    }, {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "06/07/2026 09:44:52",
+      "DS_LOCALE" : "en_US",
+      "DS_IDIOMA" : "en",
+      "NR_SEQUENCIA" : "30563",
+      "NM_USUARIO" : "aealves",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "aealves",
+      "CD_EXPRESSAO" : "1156192",
+      "DS_EXPRESSAO" : "teste nova express\u00e3o english",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "06/07/2026 09:44:52"
+    } ],
+    "DS_GLOSSARIO" : "teste nova express\u00e3o",
+    "NM_USUARIO" : "aealves",
+    "NM_USUARIO_NREC" : "aealves",
+    "CD_EXPRESSAO" : "1156192",
+    "DT_ATUALIZACAO" : "06/07/2026 09:44:32"
+  } ]
+}
