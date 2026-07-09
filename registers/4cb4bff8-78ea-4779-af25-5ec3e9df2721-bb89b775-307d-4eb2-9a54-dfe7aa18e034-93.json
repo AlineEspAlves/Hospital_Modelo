@@ -1,0 +1,441 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "09/07/2026 13:58:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "sequence" : 500088,
+      "table_name" : "VALOR_DOMINIO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "aealves",
+      "guid" : "ab81eec8-c5a8-4bac-ae46-1663817931d6"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "c46ca1e00fce",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5143,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5143,
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "09/07/2026 13:54:31",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "aealves",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "09/07/2026 13:54:31",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "aealves",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_DOMAIN",
+      "data_type" : "NUMBER",
+      "new_value" : 8046,
+      "old_value" : null
+    }, {
+      "column_name" : "VL_DOMAIN",
+      "data_type" : "VARCHAR2",
+      "new_value" : "D",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_DOMAIN_VALUE",
+      "data_type" : "NUMBER",
+      "new_value" : 3,
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CORE.CMDK_LTDA",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_DOMAIN_CLIENT_VALUE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "GYNECOLOGICAL SURGERY",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_SITUACAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "A",
+      "old_value" : null
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "09/07/2026 13:58:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "sequence" : 500089,
+      "table_name" : "VALOR_DOMINIO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "alineea",
+      "guid" : "1f8f0246-2488-4b55-9027-9bc52041efb2"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "c46ca1e00fce",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5144,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5144,
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "09/07/2026 13:54:55",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "alineea",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "09/07/2026 13:54:55",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "alineea",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_DOMAIN",
+      "data_type" : "NUMBER",
+      "new_value" : 8046,
+      "old_value" : null
+    }, {
+      "column_name" : "VL_DOMAIN",
+      "data_type" : "VARCHAR2",
+      "new_value" : "L",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_DOMAIN_VALUE",
+      "data_type" : "NUMBER",
+      "new_value" : 10,
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CORE.CMDK_LTDA",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_DOMAIN_CLIENT_VALUE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "NEONATAL ICU",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_SITUACAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "A",
+      "old_value" : null
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "09/07/2026 13:58:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500090,
+      "table_name" : "VALOR_DOMINIO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "alineea",
+      "guid" : "9c06cf10-f8b8-411f-abee-b6da0b2d7f82"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "c46ca1e00fce",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5143,
+      "old_value" : 5143
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5143,
+      "old_value" : 5143
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "09/07/2026 13:55:51",
+      "old_value" : "09/07/2026 13:54:31"
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "alineea",
+      "old_value" : "aealves"
+    }, {
+      "column_name" : "CD_DOMAIN",
+      "data_type" : "NUMBER",
+      "new_value" : 8046,
+      "old_value" : 8046
+    }, {
+      "column_name" : "DS_DOMAIN_CLIENT_VALUE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "edit User B",
+      "old_value" : "GYNECOLOGICAL SURGERY"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "09/07/2026 13:58:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500091,
+      "table_name" : "VALOR_DOMINIO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "aealves",
+      "guid" : "eba37eb2-2fec-415c-b465-9b177b79867b"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "c46ca1e00fce",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5144,
+      "old_value" : 5144
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 5144,
+      "old_value" : 5144
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "09/07/2026 13:56:12",
+      "old_value" : "09/07/2026 13:54:55"
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "aealves",
+      "old_value" : "alineea"
+    }, {
+      "column_name" : "CD_DOMAIN",
+      "data_type" : "NUMBER",
+      "new_value" : 8046,
+      "old_value" : 8046
+    }, {
+      "column_name" : "DS_DOMAIN_CLIENT_VALUE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "edit User A",
+      "old_value" : "NEONATAL ICU"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "09/07/2026 13:58:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "sequence" : 500092,
+      "table_name" : "VALOR_DOMINIO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "alineea",
+      "guid" : "b293eaeb-0ce9-48cf-9040-36937b134ac7"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "c46ca1e00fce",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 5143
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 5143
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "09/07/2026 13:55:51"
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "aealves"
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "09/07/2026 13:54:31"
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "alineea"
+    }, {
+      "column_name" : "CD_DOMAIN",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 8046
+    }, {
+      "column_name" : "VL_DOMAIN",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "D"
+    }, {
+      "column_name" : "CD_EXP_DOMAIN_VALUE",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 3
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CORE.CMDK_LTDA"
+    }, {
+      "column_name" : "DS_DOMAIN_CLIENT_VALUE",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "edit User B"
+    }, {
+      "column_name" : "IE_SITUACAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "A"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "09/07/2026 13:58:31",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "sequence" : 500093,
+      "table_name" : "VALOR_DOMINIO_CUSTOM",
+      "tag_name" : "CMDK",
+      "tasy_user" : "aealves",
+      "guid" : "1cf409a5-b20b-409e-b616-35e2e71f00dc"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "c46ca1e00fce",
+      "os_user" : "root",
+      "tasy_user" : "aealves"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 5144
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 5144
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "09/07/2026 13:56:12"
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "alineea"
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "09/07/2026 13:54:55"
+    }, {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "aealves"
+    }, {
+      "column_name" : "CD_DOMAIN",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 8046
+    }, {
+      "column_name" : "VL_DOMAIN",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "L"
+    }, {
+      "column_name" : "CD_EXP_DOMAIN_VALUE",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 10
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CORE.CMDK_LTDA"
+    }, {
+      "column_name" : "DS_DOMAIN_CLIENT_VALUE",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "edit User A"
+    }, {
+      "column_name" : "IE_SITUACAO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "A"
+    } ]
+  } ]
+}
