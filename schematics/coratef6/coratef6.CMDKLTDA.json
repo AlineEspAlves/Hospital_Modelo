@@ -1,0 +1,49 @@
+{
+  "identifier" : "CMDKLTDA",
+  "migrations" : [ {
+    "op" : "add",
+    "path" : "/children/code:43938/children/code:1073/children/code:1074/children/code:1075/children/code:44015/children/code:1062/children/code:1064/children/code:1077/children/code:1078/children/code:1079/children/code:618200351",
+    "value" : {
+      "children" : [ ],
+      "code" : 618200351,
+      "description" : "Panel",
+      "displayOrder" : 1,
+      "expressionCode" : 314879,
+      "expressionDescription" : "Panel",
+      "objectType" : "PANEL",
+      "panelWidth" : 12,
+      "parentObjectCode" : 1079
+    }
+  }, {
+    "op" : "add",
+    "path" : "/children/code:43938/children/code:1073/children/code:1074/children/code:1075/children/code:44015/children/code:1062/children/code:1064/children/code:1077/children/code:1078/children/code:1079/children/code:618224058",
+    "value" : {
+      "children" : [ ],
+      "cmdkMetadataCustomization" : false,
+      "code" : 618224058,
+      "componentType" : "WFILTRO",
+      "customProperties" : {
+        "enableMultiFilters" : "N"
+      },
+      "description" : "Filter",
+      "dictionaryCode" : 618233485,
+      "experimentalFeatures" : {
+        "experimentalForm" : false
+      },
+      "metadataFile" : true,
+      "objectType" : "COMPONENT",
+      "params" : [ ],
+      "parentObjectCode" : 1079,
+      "properties" : {
+        "closeAfterSearch" : false,
+        "lazyLoadDetail" : false,
+        "modal" : false,
+        "openOnShow" : true,
+        "orientation" : "TOP",
+        "responsive" : false
+      }
+    }
+  } ],
+  "type" : "PARTNER",
+  "version" : "1.9.16"
+}
