@@ -1,0 +1,15 @@
+{
+  "DOMINIO" : [ {
+    "$operation" : "DELETE",
+    "CD_EXP_DESC_DOMINIO" : "1",
+    "CD_DOMINIO" : "26633",
+    "NM_DOMINIO" : "DOM Teste edit",
+    "VALOR_DOMINIO_CUSTOM" : [ ],
+    "NM_USUARIO" : "aealves",
+    "DS_DOMINIO" : "DOM Teste",
+    "CD_EXP_DOMINIO" : "1",
+    "VALOR_DOMINIO" : [ ],
+    "DT_ATUALIZACAO" : "09/07/2026 13:25:03",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
