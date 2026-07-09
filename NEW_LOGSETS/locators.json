@@ -42,16 +42,6 @@
     "IE_LOCALIZADOR_INTERNO" : "",
     "DT_ATUALIZACAO" : "08/07/2026 16:26:58"
   } ],
-  "LOCATOR_LOCALE" : [ {
-    "$operation" : "DELETE",
-    "DT_ATUALIZACAO_NREC" : "08/07/2026 15:45:26",
-    "DS_LOCALE" : "pt_BR",
-    "NR_SEQ_TIPO_LOCALIZAR" : "32770",
-    "NR_SEQUENCIA" : "8239",
-    "NM_USUARIO" : "aealves",
-    "NM_ATRIBUTO" : "LOCALE EDIT",
-    "DT_ATUALIZACAO" : "08/07/2026 15:44:15"
-  } ],
   "TIPO_LOCALIZAR_ATRIBUTO" : [ {
     "$operation" : "DELETE",
     "IE_TIPO_ATRIBUTO" : "NUMBER",
@@ -363,5 +353,15 @@
     "NR_SEQ_APRESENT" : "2",
     "NR_SEQUENCIA" : "43536",
     "NM_USUARIO_NREC" : "aealves"
+  } ],
+  "LOCATOR_LOCALE" : [ {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "08/07/2026 15:45:26",
+    "DS_LOCALE" : "pt_BR",
+    "NR_SEQ_TIPO_LOCALIZAR" : "32770",
+    "NR_SEQUENCIA" : "8239",
+    "NM_USUARIO" : "aealves",
+    "NM_ATRIBUTO" : "LOCALE EDIT",
+    "DT_ATUALIZACAO" : "08/07/2026 15:44:15"
   } ]
 }
