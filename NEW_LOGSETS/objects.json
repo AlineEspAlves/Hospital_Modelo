@@ -1,0 +1,14 @@
+{
+  "OBJETO_SISTEMA" : [ {
+    "$operation" : "CREATE",
+    "DS_SCRIPT_CRIACAO" : "CREATE OR REPLACE PACKAGE CMDKLTDA_TEST_PCK_AEAAS \n   PROCEDURE remove_emp(employee_id NUMBER); \nEND CMDKLTDA_TEST_PCK_AEA;\n/\nCREATE OR REPLACE PACKAGE BODY emp_mgmt AS \n   tot_emps NUMBER; \n   tot_depts NUMBER; \nPROCEDURE remove_emp (employee_id NUMBER) IS \n   BEGIN \n      DELETE FROM CMDKLTDA_TESTE_ALI\n      WHERE NR_SEQUENCIA = remove_emp.employee_id; \n      tot_emps := tot_emps - 1; \n   END; \nEND emp_mgmt; \n/",
+    "NR_SEQUENCIA" : "10183386",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PACKAGE",
+    "DT_ATUALIZACAO" : "14/07/2026 11:50:50",
+    "NM_OBJETO" : "CMDKLTDA_TEST_PCK_AEA",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
