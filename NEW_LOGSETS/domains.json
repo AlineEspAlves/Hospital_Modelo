@@ -1,4 +1,50 @@
 {
+  "VALOR_DOMINIO" : [ {
+    "$operation" : "MERGE",
+    "CD_DOMINIO" : "8046",
+    "VL_DOMINIO" : "A",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "1",
+    "DS_VALOR_DOMINIO" : "Teste9999999",
+    "DT_ATUALIZACAO" : "09/07/2026 13:42:18",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "MERGE",
+    "CD_DOMINIO" : "8046",
+    "VL_DOMINIO" : "2",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "2",
+    "DS_VALOR_DOMINIO" : "ANGIOLOGIA",
+    "DT_ATUALIZACAO" : "09/07/2026 13:42:29",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_DOMINIO" : "8046",
+    "VL_DOMINIO" : "Aedit",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "1",
+    "DS_VALOR_DOMINIO" : "Teste9999999",
+    "DT_ATUALIZACAO" : "09/07/2026 13:42:18",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "CD_DOMINIO" : "8046",
+    "VL_DOMINIO" : "2edit",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "2",
+    "DS_VALOR_DOMINIO" : "ANGIOLOGIA",
+    "DT_ATUALIZACAO" : "09/07/2026 13:42:29",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "CREATE",
+    "CD_DOMINIO" : "18137",
+    "VL_DOMINIO" : "1",
+    "NM_USUARIO" : "aealves",
+    "CD_EXP_VALOR_DOMINIO" : "1",
+    "DS_VALOR_DOMINIO" : "Teste9999999",
+    "DT_ATUALIZACAO" : "09/07/2026 16:52:57",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ],
   "DOMINIO" : [ {
     "$operation" : "DELETE",
     "CD_EXP_DESC_DOMINIO" : "1",
@@ -61,43 +107,6 @@
       "DS_LAYER" : "CORE.CMDK_LTDA"
     } ],
     "DT_ATUALIZACAO" : "09/07/2026 14:08:43",
-    "DS_LAYER" : "CORE.CMDK_LTDA"
-  } ],
-  "VALOR_DOMINIO" : [ {
-    "$operation" : "MERGE",
-    "CD_DOMINIO" : "8046",
-    "VL_DOMINIO" : "A",
-    "NM_USUARIO" : "aealves",
-    "CD_EXP_VALOR_DOMINIO" : "1",
-    "DS_VALOR_DOMINIO" : "Teste9999999",
-    "DT_ATUALIZACAO" : "09/07/2026 13:42:18",
-    "DS_LAYER" : "CORE.CMDK_LTDA"
-  }, {
-    "$operation" : "MERGE",
-    "CD_DOMINIO" : "8046",
-    "VL_DOMINIO" : "2",
-    "NM_USUARIO" : "aealves",
-    "CD_EXP_VALOR_DOMINIO" : "2",
-    "DS_VALOR_DOMINIO" : "ANGIOLOGIA",
-    "DT_ATUALIZACAO" : "09/07/2026 13:42:29",
-    "DS_LAYER" : "CORE.CMDK_LTDA"
-  }, {
-    "$operation" : "DELETE",
-    "CD_DOMINIO" : "8046",
-    "VL_DOMINIO" : "Aedit",
-    "NM_USUARIO" : "aealves",
-    "CD_EXP_VALOR_DOMINIO" : "1",
-    "DS_VALOR_DOMINIO" : "Teste9999999",
-    "DT_ATUALIZACAO" : "09/07/2026 13:42:18",
-    "DS_LAYER" : "CORE.CMDK_LTDA"
-  }, {
-    "$operation" : "DELETE",
-    "CD_DOMINIO" : "8046",
-    "VL_DOMINIO" : "2edit",
-    "NM_USUARIO" : "aealves",
-    "CD_EXP_VALOR_DOMINIO" : "2",
-    "DS_VALOR_DOMINIO" : "ANGIOLOGIA",
-    "DT_ATUALIZACAO" : "09/07/2026 13:42:29",
     "DS_LAYER" : "CORE.CMDK_LTDA"
   } ],
   "VALOR_DOMINIO_CUSTOM" : [ {
