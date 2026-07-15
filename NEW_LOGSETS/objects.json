@@ -1,0 +1,47 @@
+{
+  "OBJETO_SISTEMA" : [ {
+    "$operation" : "DELETE",
+    "DS_SCRIPT_CRIACAO" : "CREATE OR REPLACE PACKAGE CMDKLTDA_TEST_PCK_AEAAS \n   PROCEDURE remove_emp(employee_id NUMBER); \nEND CMDKLTDA_TEST_PCK_AEA;\n/\nCREATE OR REPLACE PACKAGE BODY emp_mgmt AS \n   tot_emps NUMBER; \n   tot_depts NUMBER; \nPROCEDURE remove_emp (employee_id NUMBER) IS \n   BEGIN \n      DELETE FROM CMDKLTDA_TESTE_ALI\n      WHERE NR_SEQUENCIA = remove_emp.employee_id; \n      tot_emps := tot_emps - 1; \n   END; \nEND emp_mgmt; \n/",
+    "NR_SEQUENCIA" : "10183386",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PACKAGE",
+    "DT_ATUALIZACAO" : "14/07/2026 11:50:50",
+    "NM_OBJETO" : "CMDKLTDA_TEST_PCK_AEA",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "DS_SCRIPT_CRIACAO" : "CREATE OR REPLACE PACKAGE CMDKLTDA_TST_PCK AS \n   PROCEDURE remove_emp_edit(employee_id NUMBER); \nEND CMDKLTDA_TST_PCK;\n/\nCREATE OR REPLACE PACKAGE BODY CMDKLTDA_TST_PCK AS AS \n   tot_emps NUMBER; \n   tot_depts NUMBER; \nPROCEDURE remove_emp_edit(employee_id NUMBER) IS \n   BEGIN \n      DELETE FROM CMDKLTDA_TESTE_ALI\n      WHERE NR_SEQUENCIA = remove_emp_edit.employee_id; \n      tot_emps := tot_emps - 1; \n   END; \nEND CMDKLTDA_TST_PCK AS ;\n/",
+    "NR_SEQUENCIA" : "10183389",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PACKAGE",
+    "DT_ATUALIZACAO" : "14/07/2026 13:21:39",
+    "NM_OBJETO" : "CMDKLTDA_TST_PCK",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "DELETE",
+    "DS_SCRIPT_CRIACAO" : "CREATE OR REPLACE PACKAGE CMDKLTDA_TST2_PCK AS \n   PROCEDURE remove_emp (employee_edit_id NUMBER); \nEND CMDKLTDA_TST2_PCK;\n/\nCREATE OR REPLACE PACKAGE BODY CMDKLTDA_TST2_PCK AS \n   tot_emps NUMBER; \n   tot_depts NUMBER; \nPROCEDURE remove_emp (employee_edit_id NUMBER) IS \n   BEGIN \n      DELETE FROM CMDKLTDA_TESTE_ALI\n      WHERE NR_SEQUENCIA = remove_emp.employee_edit_id; \n      tot_emps := tot_emps - 1; \n   END; \nEND CMDKLTDA_TST2_PCK; \n/",
+    "NR_SEQUENCIA" : "10183394",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PACKAGE",
+    "DT_ATUALIZACAO" : "14/07/2026 14:04:45",
+    "NM_OBJETO" : "CMDKLTDA_TST2_PCK",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  }, {
+    "$operation" : "CREATE",
+    "DS_SCRIPT_CRIACAO" : "CREATE OR REPLACE PACKAGE CMDKLTDA_TST_EXAMPLE_PCK AS\n\n    ----------------------------------------------------------------------------\n    -- Constantes\n    ----------------------------------------------------------------------------\n    c_versao CONSTANT VARCHAR2(10) := '1.0';\n\n    ----------------------------------------------------------------------------\n    -- Tipos\n    ----------------------------------------------------------------------------\n    TYPE t_nome IS RECORD (\n        id      NUMBER,\n        nome    VARCHAR2(100)\n    );\n\n    TYPE t_lista IS TABLE OF VARCHAR2(100);\n\n    TYPE t_cursor IS REF CURSOR;\n\n    ----------------------------------------------------------------------------\n    -- Vari\u00e1veis Globais\n    ----------------------------------------------------------------------------\n    g_contador NUMBER := 0;\n\n    ----------------------------------------------------------------------------\n    -- Exce\u00e7\u00f5es\n    ----------------------------------------------------------------------------\n    e_customizada EXCEPTION;\n\n    ----------------------------------------------------------------------------\n    -- Fun\u00e7\u00f5es\n    ----------------------------------------------------------------------------\n    FUNCTION obter_nome(\n        p_id NUMBER\n    ) RETURN VARCHAR2;\n\n    FUNCTION somar(\n        p_valor1 NUMBER,\n        p_valor2 NUMBER DEFAULT 0\n    ) RETURN NUMBER;\n\n    ----------------------------------------------------------------------------\n    -- Procedimentos\n    ----------------------------------------------------------------------------\n    PROCEDURE incrementar_contador;\n\n    PROCEDURE listar_nomes(\n        p_cursor OUT t_cursor\n    );\n\nEND CMDKLTDA_TST_EXAMPLE_PCK;\n/\nCREATE OR REPLACE PACKAGE BODY CMDKLTDA_TST_EXAMPLE_PCK AS\n\n    ----------------------------------------------------------------------------\n    -- Vari\u00e1veis privadas\n    ----------------------------------------------------------------------------\n    g_privada VARCHAR2(100) := 'INTERNO';\n\n    ----------------------------------------------------------------------------\n    -- Procedimento privado\n    ----------------------------------------------------------------------------\n    PROCEDURE log_interno(\n        p_texto VARCHAR2\n    ) IS\n    BEGIN\n        DBMS_OUTPUT.PUT_LINE('[LOG] ' || p_texto);\n    END;\n\n    ----------------------------------------------------------------------------\n    -- Fun\u00e7\u00e3o privada\n    ----------------------------------------------------------------------------\n    FUNCTION multiplicar(\n        p_a NUMBER,\n        p_b NUMBER\n    ) RETURN NUMBER IS\n    BEGIN\n        RETURN p_a * p_b;\n    END;\n\n    ----------------------------------------------------------------------------\n    -- Implementa\u00e7\u00e3o das fun\u00e7\u00f5es p\u00fablicas\n    ----------------------------------------------------------------------------\n    FUNCTION obter_nome(\n        p_id NUMBER\n    ) RETURN VARCHAR2 IS\n    BEGIN\n        RETURN 'Nome ' || p_id;\n    END;\n\n    FUNCTION somar(\n        p_valor1 NUMBER,\n        p_valor2 NUMBER DEFAULT 0\n    ) RETURN NUMBER IS\n    BEGIN\n        RETURN p_valor1 + p_valor2;\n    END;\n\n    ----------------------------------------------------------------------------\n    -- Implementa\u00e7\u00e3o dos procedimentos p\u00fablicos\n    ----------------------------------------------------------------------------\n    PROCEDURE incrementar_contador IS\n    BEGIN\n        g_contador := g_contador + 1;\n\n        log_interno('Contador = ' || g_contador);\n    END;\n\n    PROCEDURE listar_nomes(\n        p_cursor OUT t_cursor\n    ) IS\n    BEGIN\n        OPEN p_cursor FOR\n            SELECT LEVEL AS id,\n                   'Nome ' || LEVEL AS nome\n            FROM dual\n            CONNECT BY LEVEL <= 5;\n    END;\n\nBEGIN\n    ----------------------------------------------------------------------------\n    -- Bloco de inicializa\u00e7\u00e3o da Package\n    -- Executado uma \u00fanica vez por sess\u00e3o, quando a package \u00e9 carregada.\n    ----------------------------------------------------------------------------\n    DBMS_OUTPUT.PUT_LINE('Package inicializada.');\n\nEND CMDKLTDA_TST_EXAMPLE_PCK;\n/",
+    "NR_SEQUENCIA" : "10183395",
+    "NM_USUARIO" : "aealves",
+    "DS_APLICACAO" : "Tasy",
+    "IE_BANCO" : "Oracle",
+    "IE_TIPO_OBJETO" : "PACKAGE",
+    "DT_ATUALIZACAO" : "14/07/2026 14:23:39",
+    "NM_OBJETO" : "CMDKLTDA_TST_EXAMPLE_PCK",
+    "DS_LAYER" : "CORE.CMDK_LTDA"
+  } ]
+}
